@@ -9,6 +9,4 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   end
 end
-happy_birthday("Timmy")
-happy_birthday("Sarah")
-happy_birthday("Amanda")
+happy_birthday
